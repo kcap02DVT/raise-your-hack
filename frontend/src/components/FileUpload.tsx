@@ -4,16 +4,17 @@ import { Upload, X, Play } from 'lucide-react';
 interface FileUploadProps {
   onFileSelect: (file: File) => void;
   onVideoSelect: (url: string) => void;
+  setDescription: (desc: string) => void;
+  setDecision: (decision: string) => void;
 }
 
-const FileUpload: React.FC<FileUploadProps> = ({ onFileSelect, onVideoSelect }) => {
+const FileUpload: React.FC<FileUploadProps> = ({ onFileSelect, onVideoSelect, setDescription, setDecision }) => {
   const [isDragOver, setIsDragOver] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [uploading, setUploading] = useState(false);
   const [uploadError, setUploadError] = useState<string | null>(null);
   const [uploadSuccess, setUploadSuccess] = useState(false);
-  const [description, setDescription] = useState('');
-  const [decision, setDecision] = useState('');
+
 
   const handleDragOver = useCallback((e: React.DragEvent) => {
     e.preventDefault();

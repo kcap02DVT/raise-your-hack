@@ -13,9 +13,11 @@ interface Message {
 interface ChatPanelProps {
   messages: Message[];
   onSendMessage: (message: string) => void;
+  description?: string;
+  decision?: string;
 }
 
-const ChatPanel: React.FC<ChatPanelProps> = ({ messages, onSendMessage }) => {
+const ChatPanel: React.FC<ChatPanelProps> = ({ messages, onSendMessage, description, decision }) => {
   const [inputValue, setInputValue] = useState('');
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -60,8 +62,11 @@ const ChatPanel: React.FC<ChatPanelProps> = ({ messages, onSendMessage }) => {
             style={{ scrollbarWidth: 'thin', scrollbarColor: '#475569 #1e293b' }}
           >
             <div className="space-y-3">
-             
-              
+              {description ? (
+                <p className="text-slate-200 whitespace-pre-line">{description}</p>
+              ) : (
+                <p className="text-slate-400 italic">Aucune description disponible.</p>
+              )}
             </div>
           </div>
         </div>
@@ -74,9 +79,11 @@ const ChatPanel: React.FC<ChatPanelProps> = ({ messages, onSendMessage }) => {
             style={{ scrollbarWidth: 'thin', scrollbarColor: '#475569 #1e293b' }}
           >
             <div className="space-y-3">
-
-       
-         
+              {decision ? (
+                <p className="text-slate-200 whitespace-pre-line">{decision}</p>
+              ) : (
+                <p className="text-slate-400 italic">Aucune décision disponible.</p>
+              )}
             </div>
           </div>
         </div>

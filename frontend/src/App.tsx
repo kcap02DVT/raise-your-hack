@@ -90,6 +90,9 @@ function App() {
     }
   ]);
 
+  const [description, setDescription] = useState<string>('');
+  const [decision, setDecision] = useState<string>('');
+
   const handleFileSelect = useCallback((file: File) => {
     console.log('File selected:', file.name);
   }, []);
@@ -176,6 +179,8 @@ function App() {
                     <FileUpload
                       onFileSelect={handleFileSelect}
                       onVideoSelect={handleVideoSelect}
+                      setDescription={setDescription}
+                      setDecision={setDecision}
                     />
                   </div>
                   {videoSrc && (
@@ -201,6 +206,8 @@ function App() {
               <ChatPanel 
                 messages={messages}
                 onSendMessage={handleSendMessage}
+                description={description}
+                decision={decision}
               />
             ) : (
               <div className="p-4 h-full overflow-y-auto">
