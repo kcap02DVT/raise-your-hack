@@ -79,7 +79,7 @@ const FileUpload: React.FC<FileUploadProps> = ({ onFileSelect, onVideoSelect, se
 
     try {
       // 1. Envoi du fichier
-      const response = await fetch('http://140.82.55.33:8000/api/v1/envoyer-flux', {
+      const response = await fetch('https://140.82.55.33:8000/api/v1/envoyer-flux', {
         method: 'POST',
         body: formData,
       });
@@ -89,7 +89,7 @@ const FileUpload: React.FC<FileUploadProps> = ({ onFileSelect, onVideoSelect, se
       }
 
       // 2. Appel à gerer-alerte après succès
-      const alertResponse = await fetch('http://140.82.55.33:8000/api/v1/gerer-alerte', {
+      const alertResponse = await fetch('https://140.82.55.33:8000/api/v1/gerer-alerte', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
