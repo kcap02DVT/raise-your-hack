@@ -1,0 +1,29 @@
+### Analyse de la Situation
+
+Les frames extraits de la vidéo de surveillance montrent une série d'événements inhabituels et potentiellement alarmants se déroulant dans un escalier intérieur d'un bâtiment moderne. Voici une analyse détaillée de la situation :
+
+1. **Frame_000.png** : Une personne monte un escalier en tenant un objet devant son visage, probablement un téléphone portable. Cette action en elle-même n'est pas alarmante, mais elle pourrait indiquer une distraction ou une inattention.
+
+2. **Frame_001.png** : Un homme descend rapidement l'escalier, probablement en courant. Cette action rapide pourrait indiquer une urgence ou une situation de stress.
+
+3. **Frame_002.png** : Une personne descend l'escalier de manière dynamique, peut-être en courant ou en sautant. Cette action rapide pourrait également indiquer une urgence ou une situation de stress.
+
+4. **Frame_003.png** : Une personne est en position de push-up sur les marches de l'escalier. Cette action est inhabituelle et pourrait indiquer une activité physique ou un exercice, mais elle pourrait aussi être une tentative de se stabiliser après une chute.
+
+5. **Frame_004.png** : Une personne est allongée sur le dos en haut de l'escalier. Cette position pourrait indiquer une chute ou un malaise.
+
+6. **Frame_005.png** : Une personne descend les escaliers en position allongée sur le dos, glissant ou tombant en arrière. Cette action indique clairement une chute ou un accident.
+
+7. **Frame_006.png** : Deux individus sont présents. L'un est allongé sur le sol, immobile, vêtu de noir. L'autre, probablement un agent de sécurité, est penché au-dessus de la personne allongée. Cette scène indique une situation d'urgence nécessitant une intervention immédiate.
+
+8. **Frame_007.png** : Deux individus sont présents. L'un est allongé sur le sol, habillé d'un pantalon noir et d'une veste bleue avec une bande beige. L'autre personne est agenouillée à côté de lui, vêtue d'un pantalon noir et d'un chapeau noir. Cette scène indique une situation d'urgence nécessitant une intervention immédiate.
+
+9. **Frame_008.png** : Une personne est allongée sur un escalier, en position de repos ou peut-être inconsciente. Cette position pourrait indiquer une chute ou un malaise.
+
+10. **Frame_009.png** : Une personne est allongée sur le dos, les jambes légèrement relevées et écartées. Cette position pourrait indiquer une chute ou un malaise.
+
+11. **Frame_010.png** : Un individu est allongé sur le côté sur un escalier. Cette position pourrait indiquer une chute ou un malaise.
+
+12. **Frame_011.png** : Deux individus sont présents. L'un est allongé sur le sol, partiellement caché par un grand sac bleu. L'autre individu est agenouillé à côté du sac bleu. Cette scène pourrait suggérer une situation inhabituelle ou même suspecte.
+
+13. **Frame_012.png** : Une personne est allongée sur le sol, face contre terre. Cette position pourrait indiquer une chute ou un malaise

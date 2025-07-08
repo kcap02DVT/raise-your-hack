@@ -1,0 +1,286 @@
+=== ÉTAPE 1 : ANALYSE VIDÉO ===
+
+[INFO] Début de l'analyse vidéo...
+[INFO] 17 frames extraites avec variation de contenu.
+[1/17] Traitement de : frame_000.png
+L'image montre une personne marchant dans un escalier intérieur. Voici une description détaillée :
+
+- **Personne** : L'individu porte une veste bleue et un pantalon foncé. Il a une casquette noire sur la tête et semble tenir un objet devant son visage avec ses deux mains. Il pourrait s'agir d'un téléphone portable ou d'un autre appareil électronique.
+
+- **Escalier** : L'escalier est large et semble être fait de matériaux modernes. Il y a des rampes métalliques de chaque côté, fixées au mur par des supports métalliques. L'escalier monte en deux volées, avec un palier intermédiaire.
+
+- **Architecture** : Le plafond est haut et inclut des éléments architecturaux en bois ou en matériau imitant le bois, disposés en motifs géométriques. Une lumière pend du plafond, éclairant l'espace.
+
+- **Éclairage** : La lumière naturelle semble entrer par une ouverture ou une fenêtre située au-dessus de l'escalier, illuminant l'espace et créant une atmosphère claire et lumineuse.
+
+- **Décor** : Les murs sont de couleur claire, probablement blancs ou gris clair, ce qui contribue à l'ambiance moderne et épurée de l'endroit.
+
+L'image semble avoir été prise par une caméra de surveillance, probablement placée en hauteur, offrant une vue plongeante sur l'escalier et la personne qui le monte. 
+
+[2/17] Traitement de : frame_001.png
+L'image montre un homme en train de descendre un escalier dans un bâtiment. Voici une description détaillée :
+
+- **Position et Mouvement** : L'homme est en mouvement, probablement en train de courir ou de marcher rapidement. Il est capturé en plein saut ou en plein pas, ce qui donne une impression de dynamisme à la scène.
+  
+- **Tenue Vestimentaire** : Il porte une veste bleue avec un logo sur la poitrine, un pantalon noir et des chaussures sombres. Il a également une casquette sur la tête.
+
+- **Environnement** : L'escalier est large et semble faire partie d'un bâtiment moderne. Les murs sont blancs et lisses, et les rampes en métal sont fixées de chaque côté de l'escalier. Le plafond est orné de panneaux en bois, ajoutant une touche de chaleur à l'espace par ailleurs minimaliste.
+
+- **Éclairage** : La lumière naturelle semble entrer par une source non visible dans l'image, illuminant l'escalier et créant des ombres douces. Il y a également une lampe suspendue au plafond, contribuant à l'éclairage de la scène.
+
+- **Perspective** : La photo est prise d'un angle bas, regardant vers le haut, ce qui accentue la hauteur de l'escalier et donne une impression de profondeur à l'image.
+
+- **Contexte** : Étant donné la tenue de l'homme et le cadre, il pourrait s'agir d'un employé ou d'un agent de sécurité dans un bâtiment public ou commercial.
+
+Cette image semble être un extrait d'une vidéo de surveillance, comme l'indique la qualité et l'angle de la prise de vue. 
+
+[3/17] Traitement de : frame_002.png
+Cette image semble être un extrait d'une vidéo de surveillance montrant une personne en train de descendre un escalier de manière dynamique. Voici une description détaillée :
+
+- **Personne** : L'individu est vêtu d'un sweat-shirt bleu avec un motif jaune sur la poitrine et d'un pantalon noir. Il porte également un chapeau noir. La personne est en mouvement, probablement en train de courir ou de sauter, et semble être en équilibre précaire, avec une main tendue vers l'avant pour se stabiliser.
+
+- **Escalier** : L'escalier est large et composé de marches en pierre ou en béton de couleur claire. Il y a des rampes métalliques de chaque côté, fixées au mur par des supports métalliques.
+
+- **Environnement** : L'arrière-plan montre un espace intérieur avec des murs blancs et un plafond moderne avec des éléments en bois ou en métal. La lumière semble naturelle, suggérant la présence de fenêtres ou d'ouvertures non visibles sur l'image.
+
+- **Angle de la caméra** : La caméra est positionnée en bas de l'escalier, capturant la scène sous un angle légèrement bas, ce qui donne une perspective dynamique et accentue le mouvement de la personne.
+
+- **Éclairage** : La lumière est douce et diffuse, probablement due à la présence de grandes fenêtres ou d'ouvertures dans la pièce, permettant à la lumière naturelle de pénétrer.
+
+Cette description devrait donner une idée claire et détaillée de ce qui se passe dans l'image. 
+
+[4/17] Traitement de : frame_003.png
+L'image extraite d'une vidéo de surveillance montre une scène se déroulant dans un escalier intérieur. Voici une description détaillée :
+
+- **Personnage** : Une personne est en position de push-up (pompes) sur les marches d'un escalier. Elle est vêtue d'un sweat-shirt noir à capuche et d'un pantalon noir. Une grande écharpe bleue avec une bande blanche est drapée sur ses épaules et son dos, tombant jusqu'au sol.
+- **Position** : La personne est en train de faire un push-up sur une marche, avec les mains placées sur une marche et les pieds sur une autre, plus haute. Son corps est parallèle au sol, et ses jambes sont tendues derrière elle.
+- **Environnement** : L'escalier est situé dans un bâtiment moderne avec des murs blancs et des rampes en métal. Le plafond est orné d'un design en bois avec des motifs géométriques. La lumière est naturelle, probablement provenant de fenêtres situées hors champ.
+- **Autres éléments** : On peut voir un petit objet noir sur le sol, à droite de la personne, près de la rampe.
+
+Cette scène semble inhabituelle et pourrait être tirée d'une vidéo de surveillance dans un lieu public ou institutionnel. 
+
+[5/17] Traitement de : frame_004.png
+L'image extraite d'une vidéo de surveillance montre une personne allongée sur le dos en haut d'un escalier. Voici une description détaillée :
+
+- **Position de la personne** : La personne est allongée sur le dos, les bras le long du corps et les jambes légèrement écartées. Elle semble être en position horizontale complète, comme si elle était couchée sur une surface plane.
+- **Vêtements** : La personne porte un t-shirt bleu avec un texte blanc sur le torse et un pantalon noir. Elle porte également des chaussures noires.
+- **Environnement** : L'escalier est en pierre ou en béton, avec des marches larges et régulières. Les rampes de chaque côté sont en métal avec des barres horizontales.
+- **Éclairage** : La scène est bien éclairée, probablement par des lumières artificielles provenant du plafond. La lumière semble douce et diffuse.
+- **Arrière-plan** : En arrière-plan, on peut voir une partie d'un plafond avec des éléments architecturaux modernes, possiblement en bois ou en métal, et une porte ou une ouverture qui mène à une autre pièce ou à l'extérieur.
+
+La scène semble être à l'intérieur d'un bâtiment public ou institutionnel, peut-être un musée, un centre commercial ou un bâtiment administratif, en raison de l'architecture et de l'éclairage. 
+
+[6/17] Traitement de : frame_005.png
+L'image extraite d'une vidéo de surveillance montre une scène se déroulant dans un escalier intérieur. Voici une description détaillée :
+
+1. **Personne** : Une personne est visible en train de descendre les escaliers. Elle est vêtue d'un pantalon noir et d'une veste sombre. Ses chaussures sont de couleur foncée, probablement noires. Elle porte également un masque bleu sur le visage, couvrant sa bouche et son nez.
+
+2. **Position** : La personne est en position allongée sur le dos, glissant ou tombant en arrière sur les marches. Ses jambes sont légèrement relevées, et ses bras sont écartés, comme si elle tentait de se stabiliser ou de ralentir sa descente.
+
+3. **Escaliers** : Les escaliers sont en pierre ou en béton, avec des marches larges et plates. Les rampes de chaque côté sont en métal, fixées par des supports métalliques au mur.
+
+4. **Environnement** : L'escalier semble faire partie d'un bâtiment moderne. Le plafond est haut et comporte des éléments en bois ou en matériau imitant le bois. Une lumière est visible au-dessus de la personne, éclairant la scène.
+
+5. **Contexte** : La scène semble être capturée par une caméra de surveillance, probablement placée en haut des escaliers ou sur le côté, offrant une vue claire de la personne en mouvement.
+
+Cette description détaillée permet de comprendre la situation représentée dans l'image, qui semble être un moment de chute ou de glissade inattendue dans un escalier. 
+
+[7/17] Traitement de : frame_006.png
+L'image semble être un cadre extrait d'une vidéo de surveillance. Voici une description détaillée :
+
+- **Personnes** : Deux individus sont présents dans l'image. L'un est allongé sur le sol, immobile, vêtu de noir. L'autre personne, qui semble être un agent de sécurité ou un employé, est penché au-dessus de la personne allongée. Il porte un uniforme bleu avec un logo sur la poitrine et un badge sur la poche. Il porte également une casquette bleue et des vêtements sombres en dessous de son uniforme.
+
+- **Lieu** : La scène se déroule dans un escalier intérieur. Les marches sont larges et en pierre ou en béton. Il y a des rampes métalliques de chaque côté de l'escalier.
+
+- **Éclairage** : L'éclairage est artificiel, provenant de lumières au plafond. La lumière est diffuse, créant des ombres douces sur les murs et les marches.
+
+- **Contexte** : L'image semble capturer un moment de détresse ou d'urgence. L'agent de sécurité semble être en train d'évaluer la situation ou de fournir une assistance à la personne allongée.
+
+- **Détails supplémentaires** : On peut voir une partie d'une porte ou d'une ouverture en arrière-plan, ainsi qu'une partie d'un plafond avec des éléments de design en bois ou en métal.
+
+Cette description est basée sur les éléments visuels présents dans l'image. 
+
+[8/17] Traitement de : frame_007.png
+L'image semble être un extrait d'une vidéo de surveillance montrant une scène inhabituelle. Voici une description détaillée :
+
+- **Personnes** : Deux individus sont présents dans l'image. L'un est allongé sur le sol, habillé d'un pantalon noir et d'une veste bleue avec une bande beige. L'autre personne est agenouillée à côté de lui, vêtue d'un pantalon noir et d'un chapeau noir. Cette personne semble être en train de toucher ou d'examiner l'individu allongé.
+
+- **Lieu** : La scène se déroule dans un escalier intérieur. Les marches sont en pierre ou en béton, et les murs sont de couleur claire, probablement blancs ou gris clair. Il y a des rampes métalliques de chaque côté de l'escalier.
+
+- **Éclairage** : L'éclairage est tamisé, avec une lumière provenant du haut de l'escalier, créant des ombres sur les visages des individus, ce qui rend difficile l'identification de leurs traits.
+
+- **Positionnement** : L'individu allongé est positionné de manière à ce que ses jambes soient sur une marche et son torse sur une autre. La personne agenouillée est positionnée de manière à ce que son genou soit sur une marche et son corps penché vers l'individu allongé.
+
+- **Atmosphère** : L'atmosphère semble tendue ou sérieuse, peut-être en raison de la position inhabituelle des individus et de l'action en cours.
+
+Cette description est basée sur les éléments visuels présents dans l'image. 
+
+[9/17] Traitement de : frame_008.png
+L'image semble être un cadre extrait d'une vidéo de surveillance. Voici une description détaillée :
+
+- **Personne** : Une personne est allongée sur un escalier. Elle est positionnée sur le côté droit de l'image, avec la tête orientée vers le bas des marches et les pieds vers le haut. Elle porte un t-shirt bleu avec du texte blanc sur le devant, bien que le texte ne soit pas entièrement lisible. Elle porte également un pantalon sombre.
+
+- **Position** : La personne est allongée sur le côté, avec les jambes légèrement pliées et les bras reposant le long du corps. Elle semble être en position de repos ou peut-être inconsciente.
+
+- **Escalier** : L'escalier est en pierre ou en béton, avec des marches larges et plates. Il y a une rambarde en métal sur le côté gauche de l'image, qui suit la courbe de l'escalier.
+
+- **Éclairage** : L'éclairage est faible, ce qui donne une ambiance sombre à la scène. La lumière semble provenir du haut de l'escalier, créant des ombres sur les marches et la personne.
+
+- **Environnement** : L'arrière-plan montre une partie d'un bâtiment avec des murs blancs et une structure en béton. Il y a une ouverture ou une porte en haut de l'escalier, mais elle n'est pas entièrement visible.
+
+- **Atmosphère** : L'image donne une impression de tranquillité ou de quiétude, peut-être même de mystère, en raison de la position inhabituelle de la personne et de l'éclairage sombre.
+
+Cette description est basée sur les éléments visibles dans l'image et ne fait pas de suppositions sur les circonstances ou les événements menant à cette scène. 
+
+[10/17] Traitement de : frame_009.png
+L'image semble être un cadre extrait d'une vidéo de surveillance. Elle montre une personne allongée sur un escalier. Voici une description détaillée :
+
+- **Personne** : La personne est allongée sur le dos, les jambes légèrement relevées et écartées. Elle porte un pantalon noir et une veste bleue avec des bandes réfléchissantes jaunes. Elle semble porter des chaussures noires. Son bras gauche est étendu le long de son corps, tandis que son bras droit est légèrement relevé, avec la main ouverte.
+- **Escalier** : L'escalier est en pierre ou en béton, avec des marches larges et profondes. Il y a une rampe métallique sur le côté droit de l'image. Les marches sont légèrement usées, ce qui suggère qu'elles sont fréquemment utilisées.
+- **Environnement** : L'environnement semble être un espace intérieur, peut-être un bâtiment public ou un lieu de travail. Les murs sont en béton brut, et il y a une porte ou une ouverture en haut des marches, qui est légèrement visible.
+- **Éclairage** : L'éclairage est faible, ce qui donne une ambiance sombre à la scène. La lumière semble provenir de l'extérieur ou d'une source lumineuse en haut des marches.
+
+L'image donne une impression de tranquillité, mais la position de la personne pourrait suggérer qu'elle est blessée ou inconsciente. 
+
+[11/17] Traitement de : frame_010.png
+Cette image semble être un extrait d'une vidéo de surveillance montrant une scène inhabituelle. Voici une description détaillée :
+
+- **Personne** : Un individu est allongé sur le côté sur un escalier. Il porte un pantalon noir et une veste bleue avec un logo blanc sur la poitrine. Il semble être en position de repos ou d'inactivité.
+- **Position** : La personne est allongée sur le côté gauche, avec les jambes légèrement pliées et les bras étendus. Sa tête repose sur l'une des marches de l'escalier.
+- **Escaliers** : L'escalier est en pierre ou en béton, avec des marches larges et plates. Il y a une rambarde en métal sur le côté gauche de l'image.
+- **Environnement** : L'arrière-plan montre un mur gris et une porte en bois sur le côté gauche. La scène semble se dérouler dans un espace intérieur, peut-être un bâtiment public ou un lieu de travail.
+- **Éclairage** : L'éclairage est tamisé, suggérant que la scène pourrait se dérouler en soirée ou dans un endroit faiblement éclairé.
+
+Cette description est basée sur les éléments visibles dans l'image. La scène semble inhabituelle et pourrait nécessiter une enquête plus approfondie pour comprendre le contexte exact. 
+
+[12/17] Traitement de : frame_011.png
+L'image montre une scène capturée par une caméra de surveillance dans un espace intérieur. Voici une description détaillée :
+
+- **Personnes** : Deux individus sont présents dans l'image. L'un est allongé sur le sol, partiellement caché par un grand sac bleu. Cette personne semble être en position allongée sur le ventre, avec les jambes légèrement relevées et les bras étendus devant elle. L'autre individu est agenouillé à côté du sac bleu, penché en avant, comme s'il était en train d'examiner ou de déplacer quelque chose.
+
+- **Sac bleu** : Un grand sac bleu avec une bande réfléchissante argentée est positionné au centre de l'image. Il semble être un sac de transport ou un sac poubelle de grande taille. Le sac couvre partiellement la personne allongée sur le sol.
+
+- **Escaliers** : Derrière les deux individus, il y a un escalier en pierre ou en béton qui monte vers le haut. Les marches sont larges et semblent robustes. De chaque côté de l'escalier, il y a des rampes en métal.
+
+- **Décor** : Les murs de l'espace sont en béton ou en pierre, donnant une apparence industrielle ou institutionnelle à l'endroit. Le sol est également en matériau dur, probablement en béton ou en carreaux.
+
+- **Éclairage** : L'éclairage semble être artificiel, probablement des lumières au plafond, car il n'y a pas de fenêtres visibles dans l'image.
+
+- **Autres détails** : Il y a un petit objet noir, peut-être un sac ou une chaussure, posé sur l'une des marches de l'escalier.
+
+Cette scène pourrait suggérer une situation inhabituelle ou même suspecte, mais sans contexte supplémentaire, il est difficile de déterminer exactement ce qui se passe. 
+
+[13/17] Traitement de : frame_012.png
+L'image semble être un cadre extrait d'une vidéo de surveillance. Voici une description détaillée :
+
+- **Personne** : Une personne est allongée sur le sol, face contre terre. Elle porte un short bleu avec du texte blanc dessus et des vêtements sombres, probablement un t-shirt ou un débardeur noir.
+- **Position** : La personne est positionnée de manière à ce que sa tête soit dirigée vers le bas d'un escalier et ses pieds vers une porte. Ses bras sont étendus devant elle, et ses jambes sont légèrement écartées.
+- **Lieu** : L'action se déroule dans un espace intérieur qui semble être un hall ou un couloir. Il y a un escalier en pierre ou en béton avec des marches larges et des rampes en métal de chaque côté. Le sol est recouvert de carreaux de couleur claire.
+- **Éclairage** : L'éclairage est assez faible, ce qui donne une ambiance sombre à la scène. La lumière semble provenir de sources extérieures au cadre, peut-être des lumières du plafond ou des lumières naturelles provenant d'une source non visible.
+- **Objets** : À côté de la personne, il y a un petit objet sombre, possiblement un sac ou un vêtement, placé sur une marche de l'escalier. À droite de l'image, il y a une porte avec une poignée et un extincteur fixé au mur à côté.
+
+L'image donne une impression de calme, mais la position de la personne pourrait indiquer qu'elle est inconsciente ou qu'elle se repose. 
+
+[14/17] Traitement de : frame_013.png
+L'image semble être un extrait d'une vidéo de surveillance. Voici une description détaillée :
+
+- **Personne** : Une personne est allongée sur le sol, face contre terre. Elle porte un pantalon bleu avec des inscriptions blanches et un t-shirt noir. Ses bras sont étendus devant elle, et ses jambes sont légèrement écartées.
+- **Position** : La personne est positionnée au pied d'un escalier en béton. Sa tête est orientée vers les marches, et ses pieds sont dirigés vers une porte.
+- **Environnement** : L'escalier est en béton avec des marches rectangulaires. Il y a une rampe métallique sur le côté gauche de l'escalier. Le sol est également en béton, avec des carreaux visibles.
+- **Éléments supplémentaires** : À droite de l'image, il y a une porte avec une petite fenêtre en verre. Sur cette fenêtre, on peut voir une affiche avec des visages et du texte, bien que les détails ne soient pas clairs. Il y a également une petite caméra de surveillance fixée au mur à gauche de l'image.
+- **Éclairage** : L'éclairage semble être artificiel, probablement des lumières au plafond, créant une ambiance légèrement sombre mais suffisamment éclairée pour distinguer les détails.
+
+Cette description couvre les éléments principaux visibles dans l'image. 
+
+[15/17] Traitement de : frame_014.png
+L'image semble être un cadre extrait d'une vidéo de surveillance. Voici une description détaillée :
+
+- **Personne** : Une personne est allongée sur le sol, face contre terre. Elle porte un pantalon noir et des chaussures noires. Ses bras sont positionnés le long de son corps, et ses jambes sont légèrement écartées.
+- **Position** : La personne est située au pied d'un escalier en béton, qui compte environ sept marches visibles. Elle est allongée sur un sol en carreaux de couleur claire.
+- **Vêtements** : La personne porte un pantalon noir et des chaussures noires. Il y a un objet bleu et gris sous son torse, qui pourrait être un sac ou un vêtement.
+- **Environnement** : L'escalier est situé dans un espace intérieur, probablement un bâtiment public ou un lieu de travail. À droite de l'image, il y a une porte métallique avec une fenêtre en verre. Sur cette porte, on peut voir un panneau avec des visages et du texte, mais le texte n'est pas lisible sur cette image.
+- **Éclairage** : L'éclairage est artificiel, typique des environnements intérieurs, et semble être suffisant pour bien distinguer les détails de la scène.
+
+Cette description est basée sur les éléments visibles dans l'image. 
+
+[16/17] Traitement de : frame_015.png
+L'image semble être un extrait d'une vidéo de surveillance et montre une personne allongée sur le sol dans un espace intérieur. Voici une description détaillée :
+
+- **Position de la personne** : La personne est allongée sur le dos, les bras légèrement écartés du corps. Les jambes sont légèrement écartées et les pieds pointent vers le haut.
+- **Vêtements** : La personne porte un haut bleu avec un logo ou un texte blanc sur le côté gauche de la poitrine. En dessous, elle porte un vêtement noir, probablement un pantalon ou un leggings. Elle porte également des chaussures noires.
+- **Environnement** : La scène se déroule dans un espace intérieur avec un sol en carreaux de couleur claire. Derrière la personne, il y a un escalier en pierre ou en béton menant à un étage supérieur. À droite de l'image, il y a une porte avec une poignée et un panneau avec des instructions ou des informations.
+- **Éclairage** : L'éclairage semble être artificiel, probablement provenant de lumières au plafond, ce qui donne une ambiance légèrement sombre à la scène.
+
+L'image ne fournit pas suffisamment de contexte pour déterminer la raison pour laquelle la personne est allongée sur le sol, mais elle semble être dans un état d'inconscience ou de repos. 
+
+[17/17] Traitement de : frame_016.png
+L'image semble être un cadre extrait d'une vidéo de surveillance. Voici une description détaillée :
+
+- **Personne** : Une personne est allongée sur le sol, face contre terre. Elle porte un pantalon noir, un t-shirt bleu foncé avec un logo blanc sur la poitrine, et un gilet noir par-dessus. Elle a également des chaussures noires.
+- **Position** : La personne est allongée sur le côté gauche de son corps, les bras légèrement écartés et les jambes tendues.
+- **Environnement** : L'endroit semble être un espace intérieur, probablement un couloir ou une zone près d'un escalier. Le sol est composé de grandes dalles carrées de couleur claire. À gauche, il y a un mur avec des carreaux blancs et une partie de plâtre nu. À droite, il y a une porte fermée avec une poignée et un extincteur rouge fixé au mur à côté.
+- **Escalier** : En arrière-plan, on peut voir un escalier montant vers le haut. L'escalier est composé de marches en béton ou en pierre.
+- **Éclairage** : L'éclairage semble être artificiel, probablement des lumières au plafond, créant une ambiance relativement sombre.
+
+L'image ne fournit pas suffisamment de contexte pour déterminer la raison pour laquelle la personne est allongée sur le sol, mais elle semble être immobile. 
+
+[INFO] Génération du résumé global...
+
+=== RÉSUMÉ GLOBAL ===
+
+### Résumé Global des Frames de Surveillance
+
+Les frames extraits de la vidéo de surveillance montrent une série d'événements inhabituels se déroulant dans un escalier intérieur d'un bâtiment moderne. Voici un résumé détaillé des scènes observées :
+
+1. **Frame_000.png** : Une personne monte un escalier en tenant un objet devant son visage, probablement un téléphone portable. Elle porte une veste bleue, un pantalon foncé, et une casquette noire. L'escalier est large, avec des rampes métalliques et un plafond haut orné de motifs en bois.
+
+2. **Frame_001.png** : Un homme descend rapidement l'escalier, probablement en courant. Il est vêtu d'une veste bleue avec un logo, un pantalon noir, et une casquette. L'escalier est moderne, avec des murs blancs et des rampes métalliques.
+
+3. **Frame_002.png** : Une personne descend l'escalier de manière dynamique, peut-être en courant ou en sautant. Elle porte un sweat-shirt bleu avec un motif jaune, un pantalon noir, et un chapeau noir. L'escalier est en pierre ou en béton, avec des rampes métalliques.
+
+4. **Frame_003.png** : Une personne est en position de push-up sur les marches de l'escalier. Elle porte un sweat-shirt noir à capuche, un pantalon noir, et une grande écharpe bleue. Un petit objet noir est visible sur le sol à côté d'elle.
+
+5. **Frame_004.png** : Une personne est allongée sur le dos en haut de l'escalier, les bras le long du corps et les jambes légèrement écartées. Elle porte un t-shirt bleu avec du texte blanc et un pantalon noir. L'escalier est en pierre ou en béton, avec des rampes métalliques.
+
+6. **Frame_005.png** : Une personne descend les escaliers en position allongée sur le dos, glissant ou tombant en arrière. Elle porte un pantalon noir, une veste sombre, et un masque bleu sur le visage. L'escalier est en pierre ou en béton, avec des rampes métalliques.
+
+7. **Frame_006.png** : Deux individus sont présents. L'un est allongé sur le sol, immobile, vêtu de noir. L'autre, probablement un agent de sécurité, est penché au-dessus de la personne allongée. L'escalier est en pierre ou
+analyse_video module: <module 'Modules.analyse_video' from '/Users/yassineseidou/Desktop/RYH/Modules/analyse_video.py'>
+analyse_video path: /Users/yassineseidou/Desktop/RYH/Modules/analyse_video.py
+
+=== ÉTAPE 2 : (audio désactivé) ===
+
+
+=== ÉTAPE 3 : ANALYSE CONTEXTUELLE ===
+
+
+=== RAPPORT D'INCIDENT ===
+ ### Analyse de la Situation
+
+Les frames extraits de la vidéo de surveillance montrent une série d'événements inhabituels et potentiellement alarmants se déroulant dans un escalier intérieur d'un bâtiment moderne. Voici une analyse détaillée de la situation :
+
+1. **Frame_000.png** : Une personne monte un escalier en tenant un objet devant son visage, probablement un téléphone portable. Cette action en elle-même n'est pas alarmante, mais elle pourrait indiquer une distraction ou une inattention.
+
+2. **Frame_001.png** : Un homme descend rapidement l'escalier, probablement en courant. Cette action rapide pourrait indiquer une urgence ou une situation de stress.
+
+3. **Frame_002.png** : Une personne descend l'escalier de manière dynamique, peut-être en courant ou en sautant. Cette action rapide pourrait également indiquer une urgence ou une situation de stress.
+
+4. **Frame_003.png** : Une personne est en position de push-up sur les marches de l'escalier. Cette action est inhabituelle et pourrait indiquer une activité physique ou un exercice, mais elle pourrait aussi être une tentative de se stabiliser après une chute.
+
+5. **Frame_004.png** : Une personne est allongée sur le dos en haut de l'escalier. Cette position pourrait indiquer une chute ou un malaise.
+
+6. **Frame_005.png** : Une personne descend les escaliers en position allongée sur le dos, glissant ou tombant en arrière. Cette action indique clairement une chute ou un accident.
+
+7. **Frame_006.png** : Deux individus sont présents. L'un est allongé sur le sol, immobile, vêtu de noir. L'autre, probablement un agent de sécurité, est penché au-dessus de la personne allongée. Cette scène indique une situation d'urgence nécessitant une intervention immédiate.
+
+8. **Frame_007.png** : Deux individus sont présents. L'un est allongé sur le sol, habillé d'un pantalon noir et d'une veste bleue avec une bande beige. L'autre personne est agenouillée à côté de lui, vêtue d'un pantalon noir et d'un chapeau noir. Cette scène indique une situation d'urgence nécessitant une intervention immédiate.
+
+9. **Frame_008.png** : Une personne est allongée sur un escalier, en position de repos ou peut-être inconsciente. Cette position pourrait indiquer une chute ou un malaise.
+
+10. **Frame_009.png** : Une personne est allongée sur le dos, les jambes légèrement relevées et écartées. Cette position pourrait indiquer une chute ou un malaise.
+
+11. **Frame_010.png** : Un individu est allongé sur le côté sur un escalier. Cette position pourrait indiquer une chute ou un malaise.
+
+12. **Frame_011.png** : Deux individus sont présents. L'un est allongé sur le sol, partiellement caché par un grand sac bleu. L'autre individu est agenouillé à côté du sac bleu. Cette scène pourrait suggérer une situation inhabituelle ou même suspecte.
+
+13. **Frame_012.png** : Une personne est allongée sur le sol, face contre terre. Cette position pourrait indiquer une chute ou un malaise
